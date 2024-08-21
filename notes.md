@@ -21,4 +21,18 @@ Initial configuration:
 
     <https://github.com/tailwindlabs/prettier-plugin-tailwindcss> 
 
+    <https://cloud.mongodb.com/> Log In with Google Account
+    
+    <https://www.prisma.io/docs/getting-started/setup-prisma/add-to-existing-project/mongodb-typescript-mongodb>
+
+    - MongoDB Atlas:
+      User: maccari78
+      Pass: 7rS5n9QdVaK1s4w0
+
+    <https://www.prisma.io/docs/orm/more/help-and-troubleshooting/help-articles/nextjs-prisma-client-dev-practices>
+
+    Next.js 13 E-Commerce Tutorial (App Router, TypeScript, Deployment, TailwindCSS, Prisma, DaisyUI)
+    <https://www.youtube.com/watch?v=K4ziF0MhbLc&t=2s> 
+    Hasta minuto 00:45:42
+
 
