@@ -11,7 +11,7 @@ Initial configuration:
     
     <https://www.npmjs.com/package/autoprefixer>
 
-    <https://tailwindcss.com/docs/editor-setup>
+    <https://tailwindcss.com/docs/installation>
 
     <https://github.com/codinginflow/nextjs-ecommerce/blob/0-Starting-Point/tailwind.config.js> tailwind.config.js
 
@@ -33,6 +33,8 @@ Initial configuration:
 
     Next.js 13 E-Commerce Tutorial (App Router, TypeScript, Deployment, TailwindCSS, Prisma, DaisyUI)
     <https://www.youtube.com/watch?v=K4ziF0MhbLc&t=2s> 
-    Hasta minuto 00:45:42
+    Hasta minuto (1:31:07) Products list page
+
+    <https://unsplash.com/es/s/fotos/imagenes-de-productos>
 
 
