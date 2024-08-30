@@ -33,7 +33,7 @@ Initial configuration:
 
     Next.js 13 E-Commerce Tutorial (App Router, TypeScript, Deployment, TailwindCSS, Prisma, DaisyUI)
     <https://www.youtube.com/watch?v=K4ziF0MhbLc&t=2s> 
-    Hasta minuto (3:01:01) Navbar + footer
+    Hasta minuto (3:53:50) User login (Next-Auth)
 
     <https://unsplash.com/es/s/fotos/imagenes-de-productos>
 
