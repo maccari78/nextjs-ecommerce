@@ -38,3 +38,4 @@ Initial configuration:
     <https://unsplash.com/es/s/fotos/imagenes-de-productos>
 
 
+    <http://localhost:3000/api/auth/google>
