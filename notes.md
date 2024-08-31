@@ -33,9 +33,9 @@ Initial configuration:
 
     Next.js 13 E-Commerce Tutorial (App Router, TypeScript, Deployment, TailwindCSS, Prisma, DaisyUI)
     <https://www.youtube.com/watch?v=K4ziF0MhbLc&t=2s> 
-    Hasta minuto (3:53:50) User login (Next-Auth)
+    Hasta minuto (4:33:37) Merging user cart with anonymous cart
 
     <https://unsplash.com/es/s/fotos/imagenes-de-productos>
 
 
-    <http://localhost:3000/api/auth/google>
+    <http://localhost:3000/api/auth/callback/google>
