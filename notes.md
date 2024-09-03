@@ -33,7 +33,7 @@ Initial configuration:
 
     Next.js 13 E-Commerce Tutorial (App Router, TypeScript, Deployment, TailwindCSS, Prisma, DaisyUI)
     <https://www.youtube.com/watch?v=K4ziF0MhbLc&t=2s> 
-    Hasta minuto (4:33:37) Merging user cart with anonymous cart
+    Hasta minuto (5:25:56) Search functionality
 
     <https://unsplash.com/es/s/fotos/imagenes-de-productos>
 
