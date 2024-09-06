@@ -1,4 +1,5 @@
 Este es un eCommerce integramente realizado con NextJS y Typescript, tambien usa TailwindCSS y su complemento daisyUI y esta conectado a una MongoDB mediante Prisma ORM
+Deploy: <https://libremercado.vercel.app/>
 
 Initial configuration:
     npm i daisyui prisma @prisma/client next-auth @auth/prisma-adapter prettier eslint-config-prettier prettier-plugin-tailwindcss
