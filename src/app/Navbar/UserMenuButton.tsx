@@ -49,7 +49,7 @@ export default function UserMenuButton({ session }: UserMenuButtonProps) {
               Cerrar seción
             </button>
           ) : (
-            <button onClick={() => signIn()}>Iniciar seción</button>
+            <button onClick={() => signIn()}>Iniciar sesión</button>
           )}
         </li>
       </ul>
